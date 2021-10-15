@@ -1,4 +1,4 @@
-On Quality of Generated Adversarial Examples and How to Set Attack Contraints
+On Quality of Generated Adversarial Examples and How to Set Attack Constraints
 ==============================================================================
 
 
